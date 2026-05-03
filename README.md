@@ -90,7 +90,7 @@ Seizure Probability
 Post-processing Logic
       ↓
 Final Detected Events
-
+---
 
 
 
@@ -115,7 +115,7 @@ Captured using BiLSTM layers for sequential seizure evolution.
 Transformer encoder models long-range dependencies across windows.
 
 
-
+---
 ## Project Structure
 
 
@@ -139,7 +139,7 @@ eeg_seizure_detection_system/
     └── detection_output.png
 
 
-
+---
 
 ## File Description
 
