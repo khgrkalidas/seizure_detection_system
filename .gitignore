@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large dataset files
+*.dat
+X_balanced.npy
+y_balanced.npy
+
+# Temporary EEG files
+temp.edf
+
+# Virtual environment
+eeg_env/
+venv/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs / exports
+*.csv
+*.xlsx
