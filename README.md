@@ -68,7 +68,7 @@ This system processes raw EEG recordings and identifies seizure activity using a
 
 ## System Architecture
 
-
+```text
 Raw EEG Signal
       ↓
 Preprocessing
@@ -90,7 +90,7 @@ Seizure Probability
 Post-processing Logic
       ↓
 Final Detected Events
----
+```
 
 
 
@@ -118,7 +118,7 @@ Transformer encoder models long-range dependencies across windows.
 ---
 ## Project Structure
 
-
+```text
 eeg_seizure_detection_system/
 │
 ├── build_dataset_complete.py
@@ -137,7 +137,7 @@ eeg_seizure_detection_system/
     ├── dashboard.png
     ├── architecture.png
     └── detection_output.png
-
+```
 
 ---
 
