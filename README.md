@@ -228,10 +228,10 @@ Typical hybrid model performance:
 
 | Metric    | Value    |
 | --------- | -------- |
-| Accuracy  | High     |
-| Precision | High     |
-| Recall    | High     |
-| F1 Score  | Balanced |
+| Accuracy  | 96.18%   |
+| Precision | 91.32%   |
+| Recall    | 93.64%   |
+| F1 Score  | 92.46%   |
 
 (Exact results depend on split strategy and subject selection.)
 
