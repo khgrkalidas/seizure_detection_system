@@ -243,13 +243,9 @@ Typical hybrid model performance:
 
 ![Dashboard](images/dashboard.png)
 
-### Model Architecture
+### system Architecture
 
 ![Architecture](images/architecture.png)
-
-### Detection Output
-
-![Detection Output](images/detection_output.png)
 
 ---
 
