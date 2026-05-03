@@ -1,4 +1,4 @@
-````markdown
+
 # EEG Seizure Detection System
 
 A professional end-to-end deep learning framework for automated epileptic seizure detection using electroencephalography (EEG) signals from the CHB-MIT Scalp EEG Database.
@@ -90,7 +90,7 @@ Seizure Probability
 Post-processing Logic
       ↓
 Final Detected Events
-````
+
 
 ---
 
