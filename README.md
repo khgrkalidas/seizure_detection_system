@@ -83,6 +83,15 @@ csv tables
 
 Dataset files are not included in this repository due to size limitations
 
-Author
+author-- KGR
 
-KALIDAS G R
+## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Detection Output
+![Detection Output](images/detection_output.png)
+
+### Architecture
+![Architecture](images/architecture.png)
