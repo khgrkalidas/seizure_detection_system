@@ -68,7 +68,7 @@ This system processes raw EEG recordings and identifies seizure activity using a
 
 ## System Architecture
 
-```text
+
 Raw EEG Signal
       ↓
 Preprocessing
@@ -92,7 +92,7 @@ Post-processing Logic
 Final Detected Events
 
 
----
+
 
 ## Deep Learning Model
 
@@ -114,11 +114,11 @@ Captured using BiLSTM layers for sequential seizure evolution.
 
 Transformer encoder models long-range dependencies across windows.
 
----
+
 
 ## Project Structure
 
-```text
+
 eeg_seizure_detection_system/
 │
 ├── build_dataset_complete.py
@@ -137,9 +137,9 @@ eeg_seizure_detection_system/
     ├── dashboard.png
     ├── architecture.png
     └── detection_output.png
-```
 
----
+
+
 
 ## File Description
 
